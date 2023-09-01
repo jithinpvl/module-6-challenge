@@ -13,7 +13,8 @@ AS A coding boot camp student
 I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
 SO THAT I can gauge my progress compared to my peers
 
-![Alt text](<Screenshot 2023-09-01 at 19.00.08.png>)
+![Alt text](<Screenshot 2023-09-01 at 19.00.08-1.png>)
+
 
 ## Acceptance Criteria
 
@@ -30,9 +31,14 @@ Create a code quiz that contains the following requirements:
 * The quiz should end when all questions are answered or the timer reaches 0.
 
   * When the game ends, it should display their score and give the user the ability to save their initials and their score
-![Alt text](<Screenshot 2023-09-01 at 19.00.45-1.png>)
-  
-  ![Alt text](<Screenshot 2023-09-01 at 19.01.12.png>)
 
-  ![Alt text](<Screenshot 2023-09-01 at 19.01.32.png>)
+  
+![Alt text](<Screenshot 2023-09-01 at 19.00.45.png>)
+
+![Alt text](<Screenshot 2023-09-01 at 19.01.12.png>)
+
+![Alt text](<Screenshot 2023-09-01 at 19.01.32.png>)
+
+
+
   
